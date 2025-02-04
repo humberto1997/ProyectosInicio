@@ -1,0 +1,14 @@
+C:\Users\humbe\ProyectosInicio\PersonaDemo\bin\Debug\net7.0\PersonaDemo.exe
+C:\Users\humbe\ProyectosInicio\PersonaDemo\bin\Debug\net7.0\PersonaDemo.deps.json
+C:\Users\humbe\ProyectosInicio\PersonaDemo\bin\Debug\net7.0\PersonaDemo.runtimeconfig.json
+C:\Users\humbe\ProyectosInicio\PersonaDemo\bin\Debug\net7.0\PersonaDemo.dll
+C:\Users\humbe\ProyectosInicio\PersonaDemo\bin\Debug\net7.0\PersonaDemo.pdb
+C:\Users\humbe\ProyectosInicio\PersonaDemo\obj\Debug\net7.0\PersonaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\ProyectosInicio\PersonaDemo\obj\Debug\net7.0\PersonaDemo.AssemblyInfoInputs.cache
+C:\Users\humbe\ProyectosInicio\PersonaDemo\obj\Debug\net7.0\PersonaDemo.AssemblyInfo.cs
+C:\Users\humbe\ProyectosInicio\PersonaDemo\obj\Debug\net7.0\PersonaDemo.csproj.CoreCompileInputs.cache
+C:\Users\humbe\ProyectosInicio\PersonaDemo\obj\Debug\net7.0\PersonaDemo.dll
+C:\Users\humbe\ProyectosInicio\PersonaDemo\obj\Debug\net7.0\refint\PersonaDemo.dll
+C:\Users\humbe\ProyectosInicio\PersonaDemo\obj\Debug\net7.0\PersonaDemo.pdb
+C:\Users\humbe\ProyectosInicio\PersonaDemo\obj\Debug\net7.0\PersonaDemo.genruntimeconfig.cache
+C:\Users\humbe\ProyectosInicio\PersonaDemo\obj\Debug\net7.0\ref\PersonaDemo.dll

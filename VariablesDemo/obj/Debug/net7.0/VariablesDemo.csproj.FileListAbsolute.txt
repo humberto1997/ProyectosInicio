@@ -1,0 +1,14 @@
+C:\Users\humbe\ProyectosInicio\VariablesDemo\bin\Debug\net7.0\VariablesDemo.exe
+C:\Users\humbe\ProyectosInicio\VariablesDemo\bin\Debug\net7.0\VariablesDemo.deps.json
+C:\Users\humbe\ProyectosInicio\VariablesDemo\bin\Debug\net7.0\VariablesDemo.runtimeconfig.json
+C:\Users\humbe\ProyectosInicio\VariablesDemo\bin\Debug\net7.0\VariablesDemo.dll
+C:\Users\humbe\ProyectosInicio\VariablesDemo\bin\Debug\net7.0\VariablesDemo.pdb
+C:\Users\humbe\ProyectosInicio\VariablesDemo\obj\Debug\net7.0\VariablesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\ProyectosInicio\VariablesDemo\obj\Debug\net7.0\VariablesDemo.AssemblyInfoInputs.cache
+C:\Users\humbe\ProyectosInicio\VariablesDemo\obj\Debug\net7.0\VariablesDemo.AssemblyInfo.cs
+C:\Users\humbe\ProyectosInicio\VariablesDemo\obj\Debug\net7.0\VariablesDemo.csproj.CoreCompileInputs.cache
+C:\Users\humbe\ProyectosInicio\VariablesDemo\obj\Debug\net7.0\VariablesDemo.dll
+C:\Users\humbe\ProyectosInicio\VariablesDemo\obj\Debug\net7.0\refint\VariablesDemo.dll
+C:\Users\humbe\ProyectosInicio\VariablesDemo\obj\Debug\net7.0\VariablesDemo.pdb
+C:\Users\humbe\ProyectosInicio\VariablesDemo\obj\Debug\net7.0\VariablesDemo.genruntimeconfig.cache
+C:\Users\humbe\ProyectosInicio\VariablesDemo\obj\Debug\net7.0\ref\VariablesDemo.dll
