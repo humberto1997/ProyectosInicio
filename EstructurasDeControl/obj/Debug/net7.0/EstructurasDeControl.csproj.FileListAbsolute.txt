@@ -1,0 +1,14 @@
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\bin\Debug\net7.0\EstructurasDeControl.exe
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\bin\Debug\net7.0\EstructurasDeControl.deps.json
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\bin\Debug\net7.0\EstructurasDeControl.runtimeconfig.json
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\bin\Debug\net7.0\EstructurasDeControl.dll
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\bin\Debug\net7.0\EstructurasDeControl.pdb
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\obj\Debug\net7.0\EstructurasDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\obj\Debug\net7.0\EstructurasDeControl.AssemblyInfoInputs.cache
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\obj\Debug\net7.0\EstructurasDeControl.AssemblyInfo.cs
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\obj\Debug\net7.0\EstructurasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\obj\Debug\net7.0\EstructurasDeControl.dll
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\obj\Debug\net7.0\refint\EstructurasDeControl.dll
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\obj\Debug\net7.0\EstructurasDeControl.pdb
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\obj\Debug\net7.0\EstructurasDeControl.genruntimeconfig.cache
+C:\Users\humbe\ProyectosInicio\EstructurasDeControl\obj\Debug\net7.0\ref\EstructurasDeControl.dll
